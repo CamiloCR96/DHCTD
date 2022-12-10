@@ -1,0 +1,16 @@
+#id1{
+    background-color: yellow;
+    color:yellow;
+    justify-content: space-around;
+    align-items: center;
+}
+#id2{
+    background-color: green;
+    color: green;
+    justify-content: space-around;
+}
+#id3{
+    background-color: red;
+    color: red;
+    justify-content: space-around;
+}
