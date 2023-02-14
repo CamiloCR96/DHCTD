@@ -1,0 +1,4 @@
+watch -n 1 free -m
+sudo sync && sudo sysctl -w vm.drop_caches=3
+
+para la memoria ram en ubuntu
